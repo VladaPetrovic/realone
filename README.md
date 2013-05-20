@@ -1,2 +1,2 @@
-Real one 1
+Real one
 ========
